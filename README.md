@@ -2,11 +2,8 @@ In this project, we predict if the Falcon 9 first stage will land successfully. 
 
 Here are the different data analysis tasks done in this project:\
 
-1.Exploratory Data Analysis (EDA):\
-  We collect data on the Falcon 9 first-stage landings. We used a RESTful API and web scraping. We convert the data into a dataframe and then perform some data wrangling.\
-2. Interactive Visual Analytics an Dashbords:\
-  We build a dashboard to analyze launch records interactively with Plotly Dash. We then build an interactive map to analyze the launch site proximity with Folium.\
-3. Predictive Analysis:\
-   We use machine learning to determine if the first stage of Falcon 9 will land successfully (Classification methods). We split the data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.\
-4. Present Our Data-Driven Insights:\
-  We compile all of our activities into one place and deliver our data-driven insights to determine if the first stage of Falcon 9 will land successfully.
+1. Data Collection:\ We collect data on the Falcon 9 first-stage landings. We used a RESTful API and web scraping.\
+2. Exploratory Data Analysis (EDA):\  We convert the data into a dataframe and then perform some data wrangling.\
+3. Interactive Visual Analytics an Dashbords:\ We build a dashboard to analyze launch records interactively with Plotly Dash. We then build an interactive map to analyze the launch site proximity with Folium.\
+4. Predictive Analysis:\ We use machine learning to determine if the first stage of Falcon 9 will land successfully (Classification methods). We split the data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.\
+5. Present Our Data-Driven Insights:\ We compile all of our activities into one place and deliver our data-driven insights to determine if the first stage of Falcon 9 will land successfully.
